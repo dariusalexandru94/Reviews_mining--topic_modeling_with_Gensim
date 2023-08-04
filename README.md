@@ -25,13 +25,13 @@ In the last step of my analysis, using topic modeling, I have revealed the main 
 **The following important aspects emerge from the presented analysis:**
 
 **Things to maintain:**
-* the bar
-* food like: pizza, salad, steak, breakfast, beer
+* the bar;
+* food like: pizza, salad, steak, breakfast, beer.
 
 **Things to improve:**
-* waiting time
-* personnel (in some cases)
-* the cold temperature
-* bathrooms
-* prices
-* food like: burgers, vegetables and chicken
+* waiting time;
+* personnel (in some cases);
+* the cold temperature;
+* bathrooms;
+* prices;
+* food like: burgers, vegetables and chicken.
